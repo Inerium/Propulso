@@ -1,0 +1,8 @@
+plugins{
+    id 'java'
+}
+dependencies {
+    compileOnly files("F:\\Developpement\\Minecraft\\Libs\\spigot-1.15.2.jar")
+}
+
+setLibsDirName("F:\\Developpement\\Minecraft\\Serveurs\\Spigot\\1.15.2\\plugins")

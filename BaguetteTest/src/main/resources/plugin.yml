@@ -1,0 +1,4 @@
+name: Baguette
+version: 1.0
+author: inerium
+main: fr.inerium.baguette.BaguetteMain
